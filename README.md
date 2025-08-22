@@ -1,20 +1,14 @@
-# Hi, I'm Maxwell Odoom! 👨‍💻
+# Hi, I'm Maxwell Odoom 👋
 
-### About Me
+### 👨‍💻 About Me
 
-I am a 💻 dedicated trainee programmer with a strong focus on backend development, particularly using the powerful tools, Python with Django Rest Framework and Java with Spring Boot. I am passionate about building scalable and maintainable APIs that form the backbone of web applications. In addition to my backend skills, I possess intermediate-level experience in frontend technologies, including React, Bootstrap, and Tailwind. 🚀🔧
+I'm a dedicated and detail-driven **backend developer** with a strong focus on building scalable and maintainable APIs. My primary tech stack includes **Python with Django Rest Framework** and **Java with Spring Boot**, and I'm passionate about designing clean, efficient, and production-ready backend solutions.
 
-I am also an AWS Certified Cloud Practitioner ☁️, proficient in leveraging cloud technologies to build robust and scalable solutions.
+I also have hands-on experience with **frontend technologies** like **React**, **Bootstrap**, and **Tailwind CSS**, enabling me to contribute across the full stack when needed.
 
-In my free time, I enjoy playing Dream League Soccer ⚽ on my mobile phone. Let's connect and have some fun together! 🎮
+As an **AWS Certified Solutions Architect – Associate**, I bring a cloud-first approach to system design, with a strong focus on scalability, availability, and performance in cloud environments.
 
-I'm always open to new ideas and opportunities to make the world a better place! 🤸‍♂️
-
-### Socials
-
-<p align="left"> <a href="https://github.com/umaxcode" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/maxwell-odoom-3579b1223/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-<br/>
+---
 
 ## 🔧 Technologies & Tools
 
@@ -33,7 +27,15 @@ I'm always open to new ideas and opportunities to make the world a better place!
 
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
-<br/>
+---
+
+## 🎯 Interests
+
+In my free time, I enjoy playing **Dream League Soccer** ⚽ on my mobile device and exploring new technologies. I'm always open to **collaboration**, **open-source projects**, and building solutions that make a meaningful impact.  
+
+Let’s connect and create something awesome! 🚀
+
+---
 
 ## 🥇 Badges
 
